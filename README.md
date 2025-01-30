@@ -12,10 +12,11 @@ Para que mi práctica sea más efectiva, seguiré estas recomendaciones:
 
 A partir de mañana, recibiré los desafíos en mi correo electrónico. ¡No puedo esperar para comenzar y ver mis resultados!
 
-## 📅 Día 1 - (Operaciones booleanas)
+## 📅 Día 1 - Operaciones booleanas
 [Ver mi solución](Day01.png)
 
-
+## 📅 Día 2 - Variables
+[Ver mi solución](Day02.png)
 ---
 
 ¡Nos vemos en el primer desafío! 🚀
