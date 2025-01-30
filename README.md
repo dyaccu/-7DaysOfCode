@@ -13,8 +13,7 @@ Para que mi práctica sea más efectiva, seguiré estas recomendaciones:
 A partir de mañana, recibiré los desafíos en mi correo electrónico. ¡No puedo esperar para comenzar y ver mis resultados!
 
 ## 📅 Día 1 - (Operaciones booleanas)
-[Mi código](Lógica JS 1-7 Operaciones Booleanas.png)
-
+[Ver mi solución](Lógica JS 1-7 Operaciones Booleanas.png)
 
 
 ---
