@@ -21,4 +21,4 @@ A partir de mañana, recibiré los desafíos en mi correo electrónico. ¡No pue
 
 ---
 
-¡Nos vemos en el primer desafío! 🚀
+¡Nos vemos en el próximo desafío! 🚀
