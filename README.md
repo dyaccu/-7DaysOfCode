@@ -17,6 +17,8 @@ A partir de mañana, recibiré los desafíos en mi correo electrónico. ¡No pue
 
 ## 📅 Día 2 - Variables
 [Ver mi solución](Day02.png)
+
+
 ---
 
 ¡Nos vemos en el primer desafío! 🚀
