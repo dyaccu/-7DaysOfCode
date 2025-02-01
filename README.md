@@ -18,16 +18,19 @@ A partir de mañana, recibiré los desafíos en mi correo electrónico. ¡No pue
 [Ver solución propuesta](https://github.com/ericolivalura/desafio-js-dia01/blob/main/desafio?utm_campaign=al_7_days_logica_javascript_-_dia_2&utm_medium=email&utm_source=RD+Station)
 
 
+
 ## 📅 Día 2 - Variables
 [Ver mi solución](Day02.png)
 
 [Ver solución propuesta](https://github.com/ericolivalura/desafio-js-dia02/blob/main/desafio-02-opcional?utm_campaign=al_7_days_logica_javascript_-_dia_3&utm_medium=email&utm_source=RD+Station)
 
 
+
 ## 📅 Día 3 - Estructuras de control de flujo
 [Ver mi solución](Day03.png)
 
 [Ver solución propuesta](https://github.com/ericolivalura/desafio-js-dia03/blob/main/desafio-03?utm_campaign=al_7_days_logica_javascript_-_dia_4&utm_medium=email&utm_source=RD+Station)
+
 
 
 ## 📅 Día 4 - Más loops y randomización
