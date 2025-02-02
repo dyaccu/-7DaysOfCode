@@ -38,6 +38,12 @@ A partir de mañana, recibiré los desafíos en mi correo electrónico. ¡No pue
 ## 📅 Día 4 - Más loops y randomización
 [Ver mi solución](Day04.png)
 
+[Ver solución propuesta](https://github.com/ericolivalura/desafio-js-dia04/blob/main/numero%20aleatorio?utm_campaign=al_7_days_logica_javascript_-_dia_5&utm_medium=email&utm_source=RD+Station)
+
+
+## 📅 Día 5 - Arrays y colecciones
+[Ver mi solución](Day05.png)
+
 ---
 
 ¡Nos vemos en el próximo desafío! 🚀
