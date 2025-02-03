@@ -49,7 +49,7 @@ A partir de mañana, recibiré los desafíos en mi correo electrónico. ¡No pue
 
 <br>
 
-## 📅 Día 5 - Remoción de arrays
+## 📅 Día 6 - Remoción de arrays
 [Ver mi solución](Day06.png)
 
 ---
