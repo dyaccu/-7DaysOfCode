@@ -45,6 +45,13 @@ A partir de mañana, recibiré los desafíos en mi correo electrónico. ¡No pue
 ## 📅 Día 5 - Arrays y colecciones
 [Ver mi solución](Day05.png)
 
+[Ver solución propuesta](https://github.com/ericolivalura/desafio-js-dia05/blob/main/desaf%C3%ADo?utm_campaign=al_7_days_logica_javascript_-_dia_6&utm_medium=email&utm_source=RD+Station)
+
+<br>
+
+## 📅 Día 5 - Remoción de arrays
+[Ver mi solución](Day06.png)
+
 ---
 
 ¡Nos vemos en el próximo desafío! 🚀
