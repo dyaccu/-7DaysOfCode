@@ -1,3 +1,4 @@
+![](k5bcezyewhs.png)
 
 # #7DaysOfCode - Lógica de Programación
 
@@ -11,7 +12,7 @@ Para que mi práctica sea más efectiva, seguiré estas recomendaciones:
 - 👥 Invitaré a alguien más para hacer esta experiencia aún más divertida.
 - 📢 Compartiré mis avances en GitHub y redes sociales usando la etiqueta **#7DaysOfCode**.
 
-A partir de mañana, recibiré los desafíos en mi correo electrónico. ¡No puedo esperar para comenzar y ver mis resultados!
+A partir de los próximos días, recibiré los desafíos en mi correo electrónico. ¡No puedo esperar para comenzar y ver mis resultados!
 
 <br>
 
