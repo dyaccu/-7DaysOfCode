@@ -1,3 +1,4 @@
+
 # #7DaysOfCode - Lógica de Programación
 
 ¡Mi inscripción en el #7DaysOfCode está confirmada! 🎉
@@ -51,6 +52,13 @@ A partir de mañana, recibiré los desafíos en mi correo electrónico. ¡No pue
 
 ## 📅 Día 6 - Remoción de arrays
 [Ver mi solución](Day06.png)
+
+[Ver solución propuesta](https://github.com/ericolivalura/desafio-js-dia06/blob/main/desaf%C3%ADo?utm_campaign=al_7_days_logica_javascript_-_dia_7&utm_medium=email&utm_source=RD+Station)
+
+<br>
+
+## 📅 Día 7 - Funciones en javascript
+[Ver mi solución](Day07.png)
 
 ---
 
