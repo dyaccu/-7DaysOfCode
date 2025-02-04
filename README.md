@@ -1,6 +1,6 @@
 ![](k5bcezyewhs.png)
 
-# #7DaysOfCode - Lógica de Programación
+# #7DaysOfCode - Lógica de Programación con JavaScript
 
 ¡Mi inscripción en el #7DaysOfCode está confirmada! 🎉
 
