@@ -61,6 +61,8 @@ A partir de los próximos días, recibiré los desafíos en mi correo electróni
 ## 📅 Día 7 - Funciones en javascript
 [Ver mi solución](Day07.png)
 
+[Ver solución propuesta](https://github.com/ericolivalura/desafio-js-dia07/blob/main/desafio?utm_campaign=al_7_days_logica_javascript_-_despedida&utm_medium=email&utm_source=RD+Station)
+
 ---
 
 ¡Nos vemos en el próximo desafío! 🚀
